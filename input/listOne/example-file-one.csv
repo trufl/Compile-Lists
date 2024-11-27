@@ -1,0 +1,5 @@
+﻿account id,FirstName,Last Name,Address,City,State,Zip,VIN,Model,Year,Service Response ,Needs Follow Up ,Conquest,Phone,Segment,Channel,Order Id,Order,Zone,District,DealerFilter,Selected Week Of Date,Report Download Date,Email,,,,,,,,
+1111,Jane,DOE,123 Easy St,PHOENIX,AZ,85253,123FF5V62FT123456,Civic Sedan,2015,N,Y,Y,(602) 642-1010,INACTIVE,DM,ID123456,SPRING SEASONAL 2024 2024-01-17,5,A,123456 - Phoenix,4/7/24,5/30/24,test@yahoo.com,,,,,,,,
+2222,John,DOE,1738 N 40TH DR,PHOENIX,AZ,85254,1254HGCF162527198,Civic Sedan,2013,N,Y,Y,(602) 732-8910,LAPSED,DM,ID123456,SPRING SEASONAL 2024 2024-01-17,5,A,123456 - Phoenix,4/7/24,5/30/24,guest@gmail.com,,,,,,,,
+3333,John,SMITH,1351 W DOCTOR RD,PHOENIX,AZ,85032,87CX09NMJ09898087,Civic Sedan,2012,,,,(602) 333-4444,LAPSED,DM,ID123456,SPRING SEASONAL 2024 2024-01-17,5,A,123456 - Phoenix,4/7/24,5/30/24,user@yahoo.com,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
